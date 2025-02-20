@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_fog.mk
+    $(LOCAL_DIR)/komodo_fog.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_fog-user \
-    evolution_fog-userdebug \
-    evolution_fog-eng
+    komodo_fog-user \
+    komodo_fog-userdebug \
+    komodo_fog-eng
