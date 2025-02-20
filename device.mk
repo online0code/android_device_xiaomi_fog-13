@@ -511,7 +511,7 @@ PRODUCT_PACKAGES += \
     libwfdaac_vendor
 
 #PRODUCT_BOOT_JARS += \
-    WfdCommon
+ #   WfdCommon
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/xiaomi/fog/fog-vendor.mk)

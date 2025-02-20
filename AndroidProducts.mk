@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_fog.mk
+    $(LOCAL_DIR)/komodo_fog.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_fog-user \
-    nad_fog-userdebug \
-    nad_fog-eng
+    komodo_fog-user \
+    komodo_fog-userdebug \
+    komodo_fog-eng
