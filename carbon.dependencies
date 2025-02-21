@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "SourceLab081/uvite",
+    "target_path": "kernel/xiaomi/fog",
+     "revision": "vauxite-fog"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "revision": "lineage-20.0"
+  }
