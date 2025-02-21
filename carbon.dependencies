@@ -1,8 +1,8 @@
 [
   {
-    "repository": "SourceLab081/uvite",
+    "repository": "SourceLab081/sm6225-main",
     "target_path": "kernel/xiaomi/fog",
-     "revision": "vauxite-fog"
+     "revision": "fog-new"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
