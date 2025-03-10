@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/komodo_fog.mk
+    $(LOCAL_DIR)/ssos_fog.mk
 
 COMMON_LUNCH_CHOICES := \
-    komodo_fog-user \
-    komodo_fog-userdebug \
-    komodo_fog-eng
+    ssos_fog-user \
+    ssos_fog-userdebug \
+    ssos_fog-eng
