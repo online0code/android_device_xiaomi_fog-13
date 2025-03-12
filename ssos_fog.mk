@@ -15,6 +15,7 @@ $(call inherit-product, vendor/ssos/config/common_full_phone.mk)
 # Inherit from fog device
 $(call inherit-product, device/xiaomi/fog/device.mk)
 
+TARGET_BOOT_ANIMATION_RES := 720
 SSOS_BUILD_TYPE := UNOFFICIAL
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
